@@ -1302,19 +1302,16 @@ main .head{
   #menu-icon {
     display: block;
   }
-
  .video-list .video{
-   width:100%
-     flex-direction: column;
-   display:flex;
- }
- .video iframe{
-   width:100%
- }
-
-.video .video-text{
-  width: 100%;
-}
+    flex-direction: column;
+  }
+  .video iframe{
+    width: 100%;
+    height: 300px;
+  }
+ .video .video-text{
+    width: 100%;
+  }
   #darkMode-icon {
     position: absolute;
     right: 7rem;
