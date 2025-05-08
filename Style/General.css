@@ -1433,6 +1433,11 @@ main .head{
     text-align: center;
   }
 
+  .pop-about-me{
+    top: 2%;
+    padding: 3rem 3% 4rem;
+  }
+
   .about-img img {
     width: 70vw;
     margin-top: -2rem;
