@@ -1303,9 +1303,7 @@ main .head{
     display: block;
   }
 
-  .about-btn{
-    bottom:30rem;
-  }
+ 
 
   #darkMode-icon {
     position: absolute;
@@ -1440,6 +1438,7 @@ main .head{
   .pop-about-me{
     top: 2%;
     padding: 3rem 3% 4rem;
+    height:600px;
   }
 
   .about-img img {
@@ -1571,6 +1570,9 @@ main .head{
     grid-template-columns: repeat(2, 1fr);
   }
 
+   .about-btn{
+    bottom:30rem;
+  }
 
 
 }
