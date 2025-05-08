@@ -1305,6 +1305,7 @@ main .head{
 
  .video-list .video{
      flex-direction: column;
+   display:flex;
  }
 
   #darkMode-icon {
