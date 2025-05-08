@@ -1304,8 +1304,12 @@ main .head{
   }
 
  .video-list .video{
+   width:100%
      flex-direction: column;
    display:flex;
+ }
+ .video iframe{
+   width:100%
  }
 
   #darkMode-icon {
