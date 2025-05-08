@@ -1312,6 +1312,9 @@ main .head{
    width:100%
  }
 
+.video .video-text{
+  width: 100%;
+}
   #darkMode-icon {
     position: absolute;
     right: 7rem;
