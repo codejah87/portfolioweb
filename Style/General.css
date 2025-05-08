@@ -1303,6 +1303,10 @@ main .head{
     display: block;
   }
 
+  .about-btn{
+    bottom:10rem;
+  }
+
   #darkMode-icon {
     position: absolute;
     right: 7rem;
