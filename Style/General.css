@@ -1303,7 +1303,7 @@ main .head{
     display: block;
   }
 
- .video-list{
+ .video-list .video{
      flex-direction: column;
  }
 
