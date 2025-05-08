@@ -898,7 +898,7 @@ span {
 
 .service-pop {
   width: 50%;
-  height: 75vh;
+  height: auto;
   position: fixed;
   top: 15%;
   background-color: var(--bg-color);
@@ -1513,7 +1513,9 @@ main .head{
   .service-pop{
     width: 90%;
     left: 5%;
-  } 
+    top:5%;
+  }
+  
 
   .pop-about-me h3{
     font-size: 15px;
