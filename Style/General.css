@@ -1303,7 +1303,9 @@ main .head{
     display: block;
   }
 
- 
+ .video-list{
+     flex-direction: column;
+ }
 
   #darkMode-icon {
     position: absolute;
